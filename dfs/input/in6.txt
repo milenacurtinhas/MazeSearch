@@ -1,0 +1,4 @@
+maze20x40_obstaculos_1.bin
+0 0
+15 39
+DFS
