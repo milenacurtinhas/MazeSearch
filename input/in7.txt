@@ -1,4 +1,0 @@
-maze5x5_livre.bin
-0 0
-4 4
-DFS
